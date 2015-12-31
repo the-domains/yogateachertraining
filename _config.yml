@@ -1,0 +1,28 @@
+name: yogateachertraining
+favicon: null
+layout_spectrum: 0.8803302624728531
+typography_spectrum: 0.36960283294320107
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9168207563925534
+  lightness: 0.9554109396412969
+  saturation: 0.2535075731575489
+  rhythmicContrast: 0.3670509443618357
+purpose: []
